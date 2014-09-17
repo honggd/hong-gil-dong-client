@@ -1,7 +1,7 @@
 hong-gil-dong-client
 ====================
 
-홍길동 NScreen Tizen 클라이언트
+N스크린 홍길동  Tizen 클라이언트
 
 2014 SOSCON BLUEHACK해커톤의 결과물
 
